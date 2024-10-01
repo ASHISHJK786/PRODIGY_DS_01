@@ -46,6 +46,19 @@ Additional visualizations such as bar charts and histograms.
 
 
 
+![Male vs Female Population Distribution in Rural Areas by State (Ascending Order)](https://github.com/user-attachments/assets/3f1dfb3f-dc56-49f3-8b51-244409d591dc)
+
+![Male vs Female Population Distribution in Urban  Areas by State (Ascending Order)](https://github.com/user-attachments/assets/5644abc0-5b5b-490f-a223-4a4dda0157a2)
+
+![Rural  Population Distribution by State](https://github.com/user-attachments/assets/eb31eebe-bdfd-47a3-8bb4-1aeb970270dc)
+
+![Total Female Population by State (Rural + Urban](https://github.com/user-attachments/assets/679e4586-503e-4de1-9809-3b9eee1f0472)
+
+![Total Male Population by State (Rural + Urban)](https://github.com/user-attachments/assets/541e6938-b298-4df1-8b63-65a358e2aad9)
+
+![Urban Population Distribution by State](https://github.com/user-attachments/assets/adac0642-33e8-4e24-9c0e-5a658c46b5e8)
+
+![Sex Ratio by Capital City of States](https://github.com/user-attachments/assets/dd8eb763-a010-4a27-9936-de9edc43a42a)
 
 
 
