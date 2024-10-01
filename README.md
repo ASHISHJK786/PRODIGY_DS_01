@@ -1,6 +1,6 @@
 # Data Visualization Task - Prodigy Infotech Internship #
 
-This repository contains the analysis and visualizations created as part of my internship at Prodigy Infotech. The objective of the task was to explore and visualize data to understand the distribution of various categorical and continuous variables.
+This repository contains the analysis and visualizations created as part of my internship at Prodigy Infotech. The objective was to explore and visualize data to understand the distribution of various categorical and continuous variables.
 
 # Problem Statement
 
@@ -40,3 +40,12 @@ train.csv: The dataset used for analysis.
 visualization_code.py: Python script with all the code used for data analysis and generating visualizations.
 fare_vs_survival.png: Image showing the relationship between fare and survival.
 Additional visualizations such as bar charts and histograms.
+
+
+# Data Analysis and Visualisation 
+
+
+
+
+
+
