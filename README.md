@@ -1,4 +1,4 @@
-## Data Visualization Task - Prodigy Infotech Internship ##
+# Data Visualization Task - Prodigy Infotech Internship #
 
 This repository contains the analysis and visualizations created as part of my internship at Prodigy Infotech. The objective of the task was to explore and visualize data to understand the distribution of various categorical and continuous variables.
 
